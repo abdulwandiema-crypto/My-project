@@ -1,2 +1,2 @@
-# My-project
+# my My-project
 My first HTML/CSS project for web development practice 
